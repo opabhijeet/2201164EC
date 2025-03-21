@@ -9,15 +9,17 @@ const HEAP_FILE = 'heap.json';
 const POPULAR_POSTS_FILE = 'popular_posts.json';
 
 const AUTH_URL = 'http://20.244.56.144/test/auth';
-require('dotenv').config();
+const path = require('path');
 
+// Ensure .env file is loaded from the correct location
+require('dotenv').config({ path: path.resolve(__dirname, '.env') });
 const CLIENT_DETAILS = {
-    companyName: process.env.COMPANY_NAME,
-    clientID: process.env.CLIENT_ID,
-    clientSecret: process.env.CLIENT_SECRET,
-    ownerName: process.env.OWNER_NAME,
-    ownerEmail: process.env.OWNER_EMAIL,
-    rollNo: process.env.ROLL_NO
+    companyName: process.env.COMPANY_NAME || 'DefaultCompanyName',
+    clientID: process.env.CLIENT_ID || 'DefaultClientID',
+    clientSecret: process.env.CLIENT_SECRET || 'DefaultClientSecret',
+    ownerName: process.env.OWNER_NAME || 'DefaultOwnerName',
+    ownerEmail: process.env.OWNER_EMAIL || 'DefaultOwnerEmail',
+    rollNo: process.env.ROLL_NO || 'DefaultRollNo'
 };
 console.log(CLIENT_DETAILS);
 
