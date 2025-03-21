@@ -1,0 +1,962 @@
+[
+  {
+    "id": 711,
+    "value": 2,
+    "fetchTime": 1742570302439
+  },
+  {
+    "id": 200,
+    "value": 2,
+    "fetchTime": 1742570308053
+  },
+  {
+    "id": 957,
+    "value": 2,
+    "fetchTime": 1742570302524
+  },
+  {
+    "id": 391,
+    "value": 2,
+    "fetchTime": 1742570308336
+  },
+  {
+    "id": 681,
+    "value": 2,
+    "fetchTime": 1742570309650
+  },
+  {
+    "id": 107,
+    "value": 2,
+    "fetchTime": 1742570311360
+  },
+  {
+    "id": 930,
+    "value": 2,
+    "fetchTime": 1742570304649
+  },
+  {
+    "id": 904,
+    "value": 2,
+    "fetchTime": 1742570316364
+  },
+  {
+    "id": 683,
+    "value": 2,
+    "fetchTime": 1742570308959
+  },
+  {
+    "id": 201,
+    "value": 1,
+    "fetchTime": 1742570302199
+  },
+  {
+    "id": 596,
+    "value": 1,
+    "fetchTime": 1742570303878
+  },
+  {
+    "id": 464,
+    "value": 1,
+    "fetchTime": 1742570302279
+  },
+  {
+    "id": 775,
+    "value": 1,
+    "fetchTime": 1742570303050
+  },
+  {
+    "id": 261,
+    "value": 1,
+    "fetchTime": 1742570303132
+  },
+  {
+    "id": 241,
+    "value": 1,
+    "fetchTime": 1742570302601
+  },
+  {
+    "id": 856,
+    "value": 1,
+    "fetchTime": 1742570302685
+  },
+  {
+    "id": 885,
+    "value": 1,
+    "fetchTime": 1742570302111
+  },
+  {
+    "id": 188,
+    "value": 1,
+    "fetchTime": 1742570302762
+  },
+  {
+    "id": 945,
+    "value": 1,
+    "fetchTime": 1742570303611
+  },
+  {
+    "id": 734,
+    "value": 1,
+    "fetchTime": 1742570302839
+  },
+  {
+    "id": 227,
+    "value": 1,
+    "fetchTime": 1742570303800
+  },
+  {
+    "id": 745,
+    "value": 1,
+    "fetchTime": 1742570306151
+  },
+  {
+    "id": 154,
+    "value": 1,
+    "fetchTime": 1742570303962
+  },
+  {
+    "id": 731,
+    "value": 1,
+    "fetchTime": 1742570302983
+  },
+  {
+    "id": 576,
+    "value": 1,
+    "fetchTime": 1742570304139
+  },
+  {
+    "id": 764,
+    "value": 1,
+    "fetchTime": 1742570304324
+  },
+  {
+    "id": 804,
+    "value": 1,
+    "fetchTime": 1742570304410
+  },
+  {
+    "id": 329,
+    "value": 1,
+    "fetchTime": 1742570304490
+  },
+  {
+    "id": 942,
+    "value": 1,
+    "fetchTime": 1742570304571
+  },
+  {
+    "id": 341,
+    "value": 1,
+    "fetchTime": 1742570303212
+  },
+  {
+    "id": 184,
+    "value": 1,
+    "fetchTime": 1742570304730
+  },
+  {
+    "id": 457,
+    "value": 1,
+    "fetchTime": 1742570303355
+  },
+  {
+    "id": 540,
+    "value": 1,
+    "fetchTime": 1742570304891
+  },
+  {
+    "id": 315,
+    "value": 1,
+    "fetchTime": 1742570303446
+  },
+  {
+    "id": 808,
+    "value": 1,
+    "fetchTime": 1742570302361
+  },
+  {
+    "id": 760,
+    "value": 1,
+    "fetchTime": 1742570305210
+  },
+  {
+    "id": 446,
+    "value": 1,
+    "fetchTime": 1742570303529
+  },
+  {
+    "id": 187,
+    "value": 1,
+    "fetchTime": 1742570305385
+  },
+  {
+    "id": 925,
+    "value": 1,
+    "fetchTime": 1742570305753
+  },
+  {
+    "id": 757,
+    "value": 1,
+    "fetchTime": 1742570305824
+  },
+  {
+    "id": 994,
+    "value": 1,
+    "fetchTime": 1742570303709
+  },
+  {
+    "id": 408,
+    "value": 1,
+    "fetchTime": 1742570305989
+  },
+  {
+    "id": 785,
+    "value": 1,
+    "fetchTime": 1742570306074
+  },
+  {
+    "id": 226,
+    "value": 1,
+    "fetchTime": 1742570310216
+  },
+  {
+    "id": 399,
+    "value": 1,
+    "fetchTime": 1742570306224
+  },
+  {
+    "id": 842,
+    "value": 1,
+    "fetchTime": 1742570306306
+  },
+  {
+    "id": 940,
+    "value": 1,
+    "fetchTime": 1742570306386
+  },
+  {
+    "id": 918,
+    "value": 1,
+    "fetchTime": 1742570306465
+  },
+  {
+    "id": 650,
+    "value": 1,
+    "fetchTime": 1742570304053
+  },
+  {
+    "id": 537,
+    "value": 1,
+    "fetchTime": 1742570306708
+  },
+  {
+    "id": 108,
+    "value": 1,
+    "fetchTime": 1742570306787
+  },
+  {
+    "id": 737,
+    "value": 1,
+    "fetchTime": 1742570306864
+  },
+  {
+    "id": 617,
+    "value": 1,
+    "fetchTime": 1742570307031
+  },
+  {
+    "id": 997,
+    "value": 1,
+    "fetchTime": 1742570307108
+  },
+  {
+    "id": 677,
+    "value": 1,
+    "fetchTime": 1742570307198
+  },
+  {
+    "id": 916,
+    "value": 1,
+    "fetchTime": 1742570307269
+  },
+  {
+    "id": 559,
+    "value": 1,
+    "fetchTime": 1742570307506
+  },
+  {
+    "id": 511,
+    "value": 1,
+    "fetchTime": 1742570307585
+  },
+  {
+    "id": 183,
+    "value": 1,
+    "fetchTime": 1742570307670
+  },
+  {
+    "id": 771,
+    "value": 1,
+    "fetchTime": 1742570307745
+  },
+  {
+    "id": 454,
+    "value": 1,
+    "fetchTime": 1742570307823
+  },
+  {
+    "id": 632,
+    "value": 1,
+    "fetchTime": 1742570307903
+  },
+  {
+    "id": 789,
+    "value": 1,
+    "fetchTime": 1742570307986
+  },
+  {
+    "id": 517,
+    "value": 1,
+    "fetchTime": 1742570304811
+  },
+  {
+    "id": 790,
+    "value": 1,
+    "fetchTime": 1742570308118
+  },
+  {
+    "id": 984,
+    "value": 1,
+    "fetchTime": 1742570308188
+  },
+  {
+    "id": 651,
+    "value": 1,
+    "fetchTime": 1742570308256
+  },
+  {
+    "id": 206,
+    "value": 1,
+    "fetchTime": 1742570304968
+  },
+  {
+    "id": 867,
+    "value": 1,
+    "fetchTime": 1742570308499
+  },
+  {
+    "id": 430,
+    "value": 1,
+    "fetchTime": 1742570308575
+  },
+  {
+    "id": 465,
+    "value": 1,
+    "fetchTime": 1742570305048
+  },
+  {
+    "id": 330,
+    "value": 1,
+    "fetchTime": 1742570308724
+  },
+  {
+    "id": 303,
+    "value": 1,
+    "fetchTime": 1742570308799
+  },
+  {
+    "id": 893,
+    "value": 1,
+    "fetchTime": 1742570308880
+  },
+  {
+    "id": 388,
+    "value": 1,
+    "fetchTime": 1742570305299
+  },
+  {
+    "id": 147,
+    "value": 1,
+    "fetchTime": 1742570309038
+  },
+  {
+    "id": 212,
+    "value": 1,
+    "fetchTime": 1742570309103
+  },
+  {
+    "id": 607,
+    "value": 1,
+    "fetchTime": 1742570309183
+  },
+  {
+    "id": 372,
+    "value": 1,
+    "fetchTime": 1742570309264
+  },
+  {
+    "id": 534,
+    "value": 1,
+    "fetchTime": 1742570309344
+  },
+  {
+    "id": 228,
+    "value": 1,
+    "fetchTime": 1742570309423
+  },
+  {
+    "id": 914,
+    "value": 1,
+    "fetchTime": 1742570309574
+  },
+  {
+    "id": 797,
+    "value": 1,
+    "fetchTime": 1742570305906
+  },
+  {
+    "id": 643,
+    "value": 1,
+    "fetchTime": 1742570309735
+  },
+  {
+    "id": 630,
+    "value": 1,
+    "fetchTime": 1742570309810
+  },
+  {
+    "id": 340,
+    "value": 1,
+    "fetchTime": 1742570309969
+  },
+  {
+    "id": 339,
+    "value": 1,
+    "fetchTime": 1742570310050
+  },
+  {
+    "id": 335,
+    "value": 1,
+    "fetchTime": 1742570320569
+  },
+  {
+    "id": 572,
+    "value": 1,
+    "fetchTime": 1742570310296
+  },
+  {
+    "id": 210,
+    "value": 1,
+    "fetchTime": 1742570310375
+  },
+  {
+    "id": 148,
+    "value": 1,
+    "fetchTime": 1742570310550
+  },
+  {
+    "id": 526,
+    "value": 1,
+    "fetchTime": 1742570310640
+  },
+  {
+    "id": 684,
+    "value": 1,
+    "fetchTime": 1742570321542
+  },
+  {
+    "id": 636,
+    "value": 1,
+    "fetchTime": 1742570311001
+  },
+  {
+    "id": 826,
+    "value": 1,
+    "fetchTime": 1742570311083
+  },
+  {
+    "id": 553,
+    "value": 1,
+    "fetchTime": 1742570311182
+  },
+  {
+    "id": 334,
+    "value": 1,
+    "fetchTime": 1742570311275
+  },
+  {
+    "id": 495,
+    "value": 1,
+    "fetchTime": 1742570306549
+  },
+  {
+    "id": 237,
+    "value": 1,
+    "fetchTime": 1742570311449
+  },
+  {
+    "id": 799,
+    "value": 1,
+    "fetchTime": 1742570311533
+  },
+  {
+    "id": 567,
+    "value": 1,
+    "fetchTime": 1742570311707
+  },
+  {
+    "id": 321,
+    "value": 1,
+    "fetchTime": 1742570311787
+  },
+  {
+    "id": 555,
+    "value": 1,
+    "fetchTime": 1742570311866
+  },
+  {
+    "id": 266,
+    "value": 1,
+    "fetchTime": 1742570311962
+  },
+  {
+    "id": 891,
+    "value": 1,
+    "fetchTime": 1742570312048
+  },
+  {
+    "id": 523,
+    "value": 1,
+    "fetchTime": 1742570312136
+  },
+  {
+    "id": 936,
+    "value": 1,
+    "fetchTime": 1742570312300
+  },
+  {
+    "id": 211,
+    "value": 1,
+    "fetchTime": 1742570312383
+  },
+  {
+    "id": 218,
+    "value": 1,
+    "fetchTime": 1742570312480
+  },
+  {
+    "id": 174,
+    "value": 1,
+    "fetchTime": 1742570312572
+  },
+  {
+    "id": 975,
+    "value": 1,
+    "fetchTime": 1742570312652
+  },
+  {
+    "id": 354,
+    "value": 1,
+    "fetchTime": 1742570312739
+  },
+  {
+    "id": 996,
+    "value": 1,
+    "fetchTime": 1742570312933
+  },
+  {
+    "id": 344,
+    "value": 1,
+    "fetchTime": 1742570313017
+  },
+  {
+    "id": 803,
+    "value": 1,
+    "fetchTime": 1742570313107
+  },
+  {
+    "id": 971,
+    "value": 1,
+    "fetchTime": 1742570313195
+  },
+  {
+    "id": 440,
+    "value": 1,
+    "fetchTime": 1742570313354
+  },
+  {
+    "id": 829,
+    "value": 1,
+    "fetchTime": 1742570313519
+  },
+  {
+    "id": 915,
+    "value": 1,
+    "fetchTime": 1742570313610
+  },
+  {
+    "id": 648,
+    "value": 1,
+    "fetchTime": 1742570313700
+  },
+  {
+    "id": 371,
+    "value": 1,
+    "fetchTime": 1742570313986
+  },
+  {
+    "id": 195,
+    "value": 1,
+    "fetchTime": 1742570314083
+  },
+  {
+    "id": 516,
+    "value": 1,
+    "fetchTime": 1742570314183
+  },
+  {
+    "id": 633,
+    "value": 1,
+    "fetchTime": 1742570314276
+  },
+  {
+    "id": 673,
+    "value": 1,
+    "fetchTime": 1742570314371
+  },
+  {
+    "id": 981,
+    "value": 1,
+    "fetchTime": 1742570314568
+  },
+  {
+    "id": 386,
+    "value": 1,
+    "fetchTime": 1742570314764
+  },
+  {
+    "id": 909,
+    "value": 1,
+    "fetchTime": 1742570314866
+  },
+  {
+    "id": 501,
+    "value": 1,
+    "fetchTime": 1742570314958
+  },
+  {
+    "id": 389,
+    "value": 1,
+    "fetchTime": 1742570315046
+  },
+  {
+    "id": 545,
+    "value": 1,
+    "fetchTime": 1742570315236
+  },
+  {
+    "id": 717,
+    "value": 1,
+    "fetchTime": 1742570315330
+  },
+  {
+    "id": 292,
+    "value": 1,
+    "fetchTime": 1742570315428
+  },
+  {
+    "id": 243,
+    "value": 1,
+    "fetchTime": 1742570315533
+  },
+  {
+    "id": 445,
+    "value": 1,
+    "fetchTime": 1742570315636
+  },
+  {
+    "id": 232,
+    "value": 1,
+    "fetchTime": 1742570315730
+  },
+  {
+    "id": 571,
+    "value": 1,
+    "fetchTime": 1742570315835
+  },
+  {
+    "id": 649,
+    "value": 1,
+    "fetchTime": 1742570315938
+  },
+  {
+    "id": 491,
+    "value": 1,
+    "fetchTime": 1742570316033
+  },
+  {
+    "id": 637,
+    "value": 1,
+    "fetchTime": 1742570316200
+  },
+  {
+    "id": 644,
+    "value": 1,
+    "fetchTime": 1742570316281
+  },
+  {
+    "id": 428,
+    "value": 1,
+    "fetchTime": 1742570308645
+  },
+  {
+    "id": 620,
+    "value": 1,
+    "fetchTime": 1742570316456
+  },
+  {
+    "id": 999,
+    "value": 1,
+    "fetchTime": 1742570316535
+  },
+  {
+    "id": 967,
+    "value": 1,
+    "fetchTime": 1742570316618
+  },
+  {
+    "id": 113,
+    "value": 1,
+    "fetchTime": 1742570316715
+  },
+  {
+    "id": 510,
+    "value": 1,
+    "fetchTime": 1742570316802
+  },
+  {
+    "id": 714,
+    "value": 1,
+    "fetchTime": 1742570316894
+  },
+  {
+    "id": 477,
+    "value": 1,
+    "fetchTime": 1742570316988
+  },
+  {
+    "id": 486,
+    "value": 1,
+    "fetchTime": 1742570317083
+  },
+  {
+    "id": 125,
+    "value": 1,
+    "fetchTime": 1742570317255
+  },
+  {
+    "id": 479,
+    "value": 1,
+    "fetchTime": 1742570317338
+  },
+  {
+    "id": 438,
+    "value": 1,
+    "fetchTime": 1742570317434
+  },
+  {
+    "id": 255,
+    "value": 1,
+    "fetchTime": 1742570317517
+  },
+  {
+    "id": 671,
+    "value": 1,
+    "fetchTime": 1742570317707
+  },
+  {
+    "id": 956,
+    "value": 1,
+    "fetchTime": 1742570317793
+  },
+  {
+    "id": 142,
+    "value": 1,
+    "fetchTime": 1742570317883
+  },
+  {
+    "id": 816,
+    "value": 1,
+    "fetchTime": 1742570318080
+  },
+  {
+    "id": 106,
+    "value": 1,
+    "fetchTime": 1742570318184
+  },
+  {
+    "id": 614,
+    "value": 0,
+    "fetchTime": 1742570318277
+  },
+  {
+    "id": 158,
+    "value": 1,
+    "fetchTime": 1742570318373
+  },
+  {
+    "id": 172,
+    "value": 1,
+    "fetchTime": 1742570318563
+  },
+  {
+    "id": 701,
+    "value": 1,
+    "fetchTime": 1742570318852
+  },
+  {
+    "id": 505,
+    "value": 1,
+    "fetchTime": 1742570318947
+  },
+  {
+    "id": 934,
+    "value": 1,
+    "fetchTime": 1742570319047
+  },
+  {
+    "id": 656,
+    "value": 1,
+    "fetchTime": 1742570319235
+  },
+  {
+    "id": 356,
+    "value": 1,
+    "fetchTime": 1742570319389
+  },
+  {
+    "id": 449,
+    "value": 1,
+    "fetchTime": 1742570319480
+  },
+  {
+    "id": 216,
+    "value": 1,
+    "fetchTime": 1742570319633
+  },
+  {
+    "id": 747,
+    "value": 1,
+    "fetchTime": 1742570319953
+  },
+  {
+    "id": 751,
+    "value": 1,
+    "fetchTime": 1742570320032
+  },
+  {
+    "id": 127,
+    "value": 1,
+    "fetchTime": 1742570320102
+  },
+  {
+    "id": 704,
+    "value": 1,
+    "fetchTime": 1742570320238
+  },
+  {
+    "id": 476,
+    "value": 1,
+    "fetchTime": 1742570320297
+  },
+  {
+    "id": 852,
+    "value": 1,
+    "fetchTime": 1742570320428
+  },
+  {
+    "id": 699,
+    "value": 0,
+    "fetchTime": 1742570302918
+  },
+  {
+    "id": 588,
+    "value": 1,
+    "fetchTime": 1742570320697
+  },
+  {
+    "id": 621,
+    "value": 1,
+    "fetchTime": 1742570320768
+  },
+  {
+    "id": 590,
+    "value": 1,
+    "fetchTime": 1742570320908
+  },
+  {
+    "id": 647,
+    "value": 1,
+    "fetchTime": 1742570320991
+  },
+  {
+    "id": 484,
+    "value": 1,
+    "fetchTime": 1742570321062
+  },
+  {
+    "id": 845,
+    "value": 1,
+    "fetchTime": 1742570321129
+  },
+  {
+    "id": 395,
+    "value": 1,
+    "fetchTime": 1742570321207
+  },
+  {
+    "id": 782,
+    "value": 1,
+    "fetchTime": 1742570321339
+  },
+  {
+    "id": 385,
+    "value": 1,
+    "fetchTime": 1742570321404
+  },
+  {
+    "id": 221,
+    "value": 0,
+    "fetchTime": 1742570310827
+  },
+  {
+    "id": 481,
+    "value": 1,
+    "fetchTime": 1742570321606
+  },
+  {
+    "id": 422,
+    "value": 1,
+    "fetchTime": 1742570321673
+  },
+  {
+    "id": 810,
+    "value": 1,
+    "fetchTime": 1742570321809
+  },
+  {
+    "id": 554,
+    "value": 1,
+    "fetchTime": 1742570321872
+  },
+  {
+    "id": 332,
+    "value": 1,
+    "fetchTime": 1742570321939
+  },
+  {
+    "id": 965,
+    "value": 1,
+    "fetchTime": 1742570322008
+  }
+]
